@@ -1,0 +1,770 @@
+{
+    "E4:C3:2A:A0:9D:21": {
+        "ip": "192.168.4.122",
+        "name": "Home4_Master_NightLamp",
+        "host_name": "HS103",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 06:55:55",
+        "notify": 7
+    },
+    "28:34:FF:5A:1A:EF": {
+        "ip": "192.168.2.140",
+        "name": "Navadha_Iphone15",
+        "host_name": "Nikkis-iPhone",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-17 21:10:31",
+        "notify": 7
+    },
+    "5E:68:79:99:53:91": {
+        "ip": "192.168.4.19",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 4,
+        "last_connected": "2024-09-19 19:09:14",
+        "notify": 7
+    },
+    "54:32:04:60:71:B8": {
+        "ip": "192.168.4.152",
+        "name": "Home4_Shelly_DrivewayLight",
+        "host_name": "shelly1minig3-5432046071b8",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:57:23",
+        "notify": 7
+    },
+    "E4:C3:2A:A0:97:AB": {
+        "ip": "192.168.4.118",
+        "name": "Home4_SmartPIug_2",
+        "host_name": "HS103",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:18:09",
+        "notify": 7
+    },
+    "54:32:04:60:68:98": {
+        "ip": "192.168.4.137",
+        "name": "Home4_Shelly_KitchenPantry",
+        "host_name": "shelly1minig3-543204606898",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 11:27:17",
+        "notify": 7
+    },
+    "7C:B2:7D:D1:E4:8A": {
+        "ip": "192.168.2.121",
+        "name": "Sonal_Lenovo_Laptop",
+        "host_name": "Sonal-Lenovo",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-10-30 00:51:07",
+        "notify": 7
+    },
+    "E8:68:E7:53:C8:1E": {
+        "ip": "192.168.4.117",
+        "name": "Home4_SmartPlug_1",
+        "host_name": "ESP_53C81E",
+        "reconnect_count_per_day": 4,
+        "last_connected": "2024-11-19 14:13:27",
+        "notify": 7
+    },
+    "94:B9:7E:09:34:A5": {
+        "ip": "192.168.4.126",
+        "name": "Home4_ColorBulb_4",
+        "host_name": "ESP_0934A5",
+        "reconnect_count_per_day": 4,
+        "last_connected": "2024-11-19 14:13:30",
+        "notify": 7
+    },
+    "D8:8B:4C:FC:46:5C": {
+        "ip": "192.168.1.109",
+        "name": "Manish_YOL_WaterLeak_Hub",
+        "host_name": "YS-L160303465c",
+        "reconnect_count_per_day": 19,
+        "last_connected": "2024-11-19 15:28:32",
+        "notify": 7
+    },
+    "40:23:43:92:24:6F": {
+        "ip": "192.168.2.131",
+        "name": "Bhavan_Laptop",
+        "host_name": "BHA_ONE_LAPTOP",
+        "reconnect_count_per_day": 24,
+        "last_connected": "2024-11-19 13:15:00",
+        "notify": 7
+    },
+    "9C:50:D1:12:01:82": {
+        "ip": "192.168.4.148",
+        "name": "Home4_Rachio",
+        "host_name": "Rachio-120182",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 15:12:26",
+        "notify": 7
+    },
+    "C8:2A:DD:B1:99:27": {
+        "ip": "192.168.2.120",
+        "name": "Sonal_Pixel7",
+        "host_name": "Pixel-7-Pro",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 06:41:26",
+        "notify": 7
+    },
+    "1C:53:F9:89:32:AE": {
+        "ip": "192.168.4.142",
+        "name": "Home4_Nest_DispIay_Kitchen",
+        "host_name": null,
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 11:10:55",
+        "notify": 7
+    },
+    "54:32:04:65:2F:D0": {
+        "ip": "192.168.4.153",
+        "name": "Home4_Shelly_Laundryroom_Light",
+        "host_name": "shelly1minig3-543204652fd0",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:46:14",
+        "notify": 7
+    },
+    "34:3E:A4:52:AA:51": {
+        "ip": "192.168.4.134",
+        "name": "Home4_RingChime",
+        "host_name": "343EA452AA51-mysimplelink",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:58:42",
+        "notify": 7
+    },
+    "44:07:0B:6B:4A:FE": {
+        "ip": "192.168.4.103",
+        "name": "Home4_Master_Nest_Display",
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 09:41:45",
+        "notify": 7
+    },
+    "10:2C:6B:F1:29:74": {
+        "ip": "192.168.4.105",
+        "name": "Home4_Google_LenovoMasterBed",
+        "host_name": "audiocast",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:48:51",
+        "notify": 7
+    },
+    "8E:A9:EB:46:8E:C0": {
+        "ip": "192.168.1.201",
+        "name": "SERVER_DEBIAN_HA",
+        "host_name": "debian-ha",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 08:08:20",
+        "notify": 7
+    },
+    "7C:87:CE:63:23:24": {
+        "ip": "192.168.4.111",
+        "name": "Home4_Shelly_Pantry",
+        "host_name": "shellyplus1-7c87ce632324",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 11:34:21",
+        "notify": 7
+    },
+    "9C:AD:EF:22:5B:81": {
+        "ip": "192.168.1.104",
+        "name": "Manish_Obi202",
+        "host_name": "OBi202",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 05:51:00",
+        "notify": 7
+    },
+    "FC:D7:49:B9:A6:E0": {
+        "ip": "192.168.4.140",
+        "name": "Home4_Echo_POP",
+        "host_name": null,
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:35:48",
+        "notify": 7
+    },
+    "34:51:80:3C:95:BD": {
+        "ip": "192.168.1.107",
+        "name": "Manish_Office_TV",
+        "host_name": "50TCLRokuTV",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 08:07:20",
+        "notify": 7
+    },
+    "00:08:22:68:3D:FE": {
+        "ip": "192.168.2.103",
+        "name": "Manish_Tablet",
+        "host_name": "T60-ROW",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 11:45:17",
+        "notify": 7
+    },
+    "E8:48:B8:79:E0:D8": {
+        "ip": "192.168.4.120",
+        "name": "Home4_Subwoofer",
+        "host_name": "KP115",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 13:47:08",
+        "notify": 7
+    },
+    "A4:E5:7C:8B:04:35": {
+        "ip": "192.168.4.123",
+        "name": "Home4_ColorBulb_1",
+        "host_name": "ESP_8B0435",
+        "reconnect_count_per_day": 5,
+        "last_connected": "2024-11-19 14:26:57",
+        "notify": 7
+    },
+    "7C:61:66:80:EE:74": {
+        "ip": "192.168.4.106",
+        "name": "Home4_NavadhaBed_EchoDot",
+        "host_name": null,
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 12:53:49",
+        "notify": 7
+    },
+    "E8:68:E7:54:51:F0": {
+        "ip": "192.168.4.124",
+        "name": "Home4_CoIorBuIb_2",
+        "host_name": "ESP_5451F0",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:40:42",
+        "notify": 7
+    },
+    "8C:AA:B5:65:F8:53": {
+        "ip": "192.168.4.127",
+        "name": "Home4_ColorBulb_5",
+        "host_name": "ESP_65F853",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:40:42",
+        "notify": 7
+    },
+    "68:C6:3A:FB:98:84": {
+        "ip": "192.168.4.114",
+        "name": "Home4_Shelly_Entrance",
+        "host_name": "shellyswitch25-68C63AFB9884",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:34:46",
+        "notify": 7
+    },
+    "18:B4:30:BB:FA:F5": {
+        "ip": "192.168.4.129",
+        "name": "Home4_NestThermo_Downstair",
+        "host_name": "09AA01AC01170A8B",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 12:36:37",
+        "notify": 7
+    },
+    "8C:AA:B5:C5:11:2B": {
+        "ip": "192.168.4.116",
+        "name": "Home4_Shelly_PatioLight",
+        "host_name": "shelly1-8CAAB5C5112B",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:55:31",
+        "notify": 7
+    },
+    "74:F9:CA:EE:D2:FD": {
+        "ip": "192.168.4.128",
+        "name": "Home4_Nintendo",
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-03 02:17:19",
+        "notify": 7
+    },
+    "30:05:5C:19:24:63": {
+        "ip": "192.168.1.106",
+        "name": "Manish_BrotherPrinter",
+        "host_name": "BRN30055C192463",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 10:35:41",
+        "notify": 7
+    },
+    "DC:4F:22:D1:9A:15": {
+        "ip": "192.168.4.109",
+        "name": "Home4_NiyatiBedroom_Lamp",
+        "host_name": "ESP_D19A15",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:56:49",
+        "notify": 7
+    },
+    "68:C6:3A:FB:91:15": {
+        "ip": "192.168.4.113",
+        "name": "Home4_Shelly_Livingroom",
+        "host_name": "shellyswitch25-68C63AFB9115",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 04:22:05",
+        "notify": 7
+    },
+    "84:0D:8E:52:B2:FE": {
+        "ip": "192.168.4.110",
+        "name": "Home4_Massager",
+        "host_name": "ESP_52B2FE",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:56:31",
+        "notify": 7
+    },
+    "34:94:54:77:AF:3C": {
+        "ip": "192.168.4.115",
+        "name": "Home4_Shelly_Gameroom",
+        "host_name": "shellyswitch25-34945477AF3C",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 09:43:56",
+        "notify": 7
+    },
+    "08:8B:C8:49:EF:F4": {
+        "ip": "192.168.2.100",
+        "name": "Manish_Pixel9Pro",
+        "host_name": "Manish-Pixel9Pro",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:28:51",
+        "notify": 7
+    },
+    "08:F8:BC:71:E2:D5": {
+        "ip": "192.168.4.35",
+        "name": "Navadha_Laptop",
+        "host_name": "Navadhas-MBP",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-10-21 06:31:39",
+        "notify": 7
+    },
+    "B4:99:BA:BC:0E:84": {
+        "ip": "192.168.1.212",
+        "name": "SERVER_HP_ILO",
+        "host_name": "ILOAUD12600C3",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 08:19:32",
+        "notify": 7
+    },
+    "C8:9C:DC:61:AC:57": {
+        "ip": "192.168.1.205",
+        "name": "SERVER_OMV",
+        "host_name": "omv",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:01:46",
+        "notify": 7
+    },
+    "68:DA:73:A6:3B:11": {
+        "ip": "192.168.1.111",
+        "name": "Manish_Livingroom_GTV",
+        "host_name": "Livingroom-TV",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 04:02:53",
+        "notify": 7
+    },
+    "A4:7E:FA:06:B8:16": {
+        "ip": "192.168.4.151",
+        "name": "Home4_Withings_BPMachine",
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-17 22:59:01",
+        "notify": 7
+    },
+    "84:D8:1B:72:3F:42": {
+        "ip": "192.168.4.139",
+        "name": "Home4_MediaLight",
+        "host_name": "HS220",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 06:54:47",
+        "notify": 7
+    },
+    "40:ED:00:D7:1A:2D": {
+        "ip": "192.168.4.145",
+        "name": "Home4_Garage_InWall_Plug",
+        "host_name": "KP200",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 15:17:54",
+        "notify": 7
+    },
+    "E4:C3:2A:A0:63:FE": {
+        "ip": "192.168.4.121",
+        "name": "Home4_Living_Lamp",
+        "host_name": "HS103",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 06:02:04",
+        "notify": 7
+    },
+    "E4:C3:2A:A0:7D:92": {
+        "ip": "192.168.4.119",
+        "name": "Home4_Gameroom_Lamp",
+        "host_name": "HS103",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 08:02:31",
+        "notify": 7
+    },
+    "68:C6:3A:FB:78:2C": {
+        "ip": "192.168.4.112",
+        "name": "Home4_Shelly_MasterBedRoom",
+        "host_name": "shellyswitch25-68C63AFB782C",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:32:37",
+        "notify": 7
+    },
+    "64:90:C1:06:6E:E8": {
+        "ip": "192.168.4.108",
+        "name": "Home4_Roborock",
+        "host_name": null,
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 15:33:28",
+        "notify": 7
+    },
+    "64:52:99:C0:41:8A": {
+        "ip": "192.168.4.107",
+        "name": "Home4_MyQ-98A",
+        "host_name": "MyQ-98A",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 04:12:53",
+        "notify": 7
+    },
+    "18:B4:30:C2:C3:31": {
+        "ip": "192.168.4.130",
+        "name": "Home4_NestThermo_Upstair",
+        "host_name": "09AA01AC171701DK",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 06:59:07",
+        "notify": 7
+    },
+    "F4:F5:D8:B0:F0:EA": {
+        "ip": "192.168.4.101",
+        "name": "Home4_Google_Gameroom",
+        "host_name": "Google-Home",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 04:45:23",
+        "notify": 7
+    },
+    "48:D6:D5:7E:EC:3C": {
+        "ip": "192.168.4.102",
+        "name": "Home4_Google_Office",
+        "host_name": "Google-Home-Mini",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 04:01:24",
+        "notify": 7
+    },
+    "34:14:B5:30:2D:56": {
+        "ip": "192.168.4.31",
+        "name": "Ring-302d56",
+        "host_name": "Ring-302d56",
+        "reconnect_count_per_day": 8,
+        "last_connected": "2024-11-19 15:39:30",
+        "notify": 7
+    },
+    "48:D6:D5:F4:EC:66": {
+        "ip": "192.168.4.104",
+        "name": "Home4_Google_Temple",
+        "host_name": "Google-Home-Mini",
+        "reconnect_count_per_day": 3,
+        "last_connected": "2024-11-19 14:45:48",
+        "notify": 7
+    },
+    "84:A3:29:8D:F9:E4": {
+        "ip": "192.168.2.105",
+        "name": "LGwebOSTV",
+        "host_name": "LGwebOSTV",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-10-11 01:49:41",
+        "notify": 7
+    },
+    "F8:0F:F9:E6:65:F9": {
+        "ip": "192.168.2.130",
+        "name": "Bhavan_Pixe17",
+        "host_name": "Bhavan-Pixel7",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 10:07:44",
+        "notify": 7
+    },
+    "00:09:B0:3A:D9:55": {
+        "ip": "192.168.4.147",
+        "name": "Home4_OnkyoReceiver",
+        "host_name": "Onkyo-TX-NR6050-F6B7B1",
+        "reconnect_count_per_day": 3,
+        "last_connected": "2024-11-19 08:20:06",
+        "notify": 7
+    },
+    "D8:6C:63:60:5E:EE": {
+        "ip": "192.168.4.136",
+        "name": "Home4_Chromecast_Bhavanbedroom",
+        "host_name": "Chromecast",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-09-08 02:47:13",
+        "notify": 7
+    },
+    "00:24:E4:9A:8C:F6": {
+        "ip": "192.168.4.150",
+        "name": "Home4_Withings_BedPad",
+        "host_name": null,
+        "reconnect_count_per_day": 5,
+        "last_connected": "2024-11-19 09:12:04",
+        "notify": 7
+    },
+    "9E:13:04:E2:23:2A": {
+        "ip": "192.168.2.101",
+        "name": "Manish_Galaxy_Note10",
+        "host_name": "Galaxy-Note10-5G",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-10-27 17:35:15",
+        "notify": 7
+    },
+    "34:42:62:54:58:0D": {
+        "ip": "192.168.2.141",
+        "name": "Navadha_iPad",
+        "host_name": "Nikkis-iPad",
+        "reconnect_count_per_day": 3,
+        "last_connected": "2024-11-17 21:55:04",
+        "notify": 7
+    },
+    "44:39:C4:50:9C:55": {
+        "ip": "192.168.1.101",
+        "name": "Manish_LenovoDesktop",
+        "host_name": "MM-Lenovo1",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 12:35:43",
+        "notify": 7
+    },
+    "7E:96:D7:20:7D:84": {
+        "ip": "192.168.1.203",
+        "name": "SERVER_DEBIAN_GUI",
+        "host_name": "debian-gui",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 07:28:20",
+        "notify": 7
+    },
+    "F8:0D:AC:6A:D9:69": {
+        "ip": "192.168.1.102",
+        "name": "Manish_OfficeLaptop_HP",
+        "host_name": "TTX0109ALKKWAST",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 04:03:43",
+        "notify": 7
+    },
+    "14:AE:85:70:A2:36": {
+        "ip": "192.168.1.110",
+        "name": "Manish_Mediaroom_GTV",
+        "host_name": "Mediaroom-TV",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-10-27 13:54:39",
+        "notify": 7
+    },
+    "EC:71:DB:89:F9:58": {
+        "ip": "192.168.3.102",
+        "name": "Home3_Camera_Driveway",
+        "host_name": "Driveway",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:00:37",
+        "notify": 7
+    },
+    "EC:71:DB:65:F6:CA": {
+        "ip": "192.168.3.104",
+        "name": "Home3_Camera_Patio",
+        "host_name": "Backyard",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:02:49",
+        "notify": 7
+    },
+    "EC:71:DB:B2:18:9A": {
+        "ip": "192.168.3.101",
+        "name": "Home3_Camera_Entrance",
+        "host_name": "Entrance",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 08:07:32",
+        "notify": 7
+    },
+    "EC:71:DB:59:CB:D4": {
+        "ip": "192.168.3.103",
+        "name": "Home3_Camera_BackYard",
+        "host_name": "Patio",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-19 14:08:50",
+        "notify": 7
+    },
+    "B0:09:DA:63:37:A1": {
+        "ip": "192.168.1.103",
+        "name": "Manish_RingBaseStation",
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 04:00:40",
+        "notify": 7
+    },
+    "FC:8C:11:ED:FE:50": {
+        "ip": "192.168.1.112",
+        "name": "Manish_XBOX",
+        "host_name": "XBOX",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-10-26 18:45:51",
+        "notify": 7
+    },
+    "E8:F4:08:32:C5:85": {
+        "ip": "192.168.4.41",
+        "name": "LPT-12297",
+        "host_name": "LPT-12297",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-14 06:21:00",
+        "notify": 7
+    },
+    "8C:AA:B5:65:F4:3B": {
+        "ip": "192.168.4.125",
+        "name": "Home4_ColorBulb_3",
+        "host_name": "ESP_65F43B",
+        "reconnect_count_per_day": 6,
+        "last_connected": "2024-11-12 23:41:50",
+        "notify": 7
+    },
+    "AC:ED:5C:B8:D1:02": {
+        "ip": "192.168.4.33",
+        "name": "AmishaPC",
+        "host_name": "AmishaPC",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-10-13 03:21:21",
+        "notify": 7
+    },
+    "FE:44:29:B9:FC:96": {
+        "ip": "192.168.4.27",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-08 17:47:35",
+        "notify": 7
+    },
+    "F8:E4:3B:EA:52:23": {
+        "ip": "192.168.1.131",
+        "name": "Bhavan_Laptop",
+        "host_name": "BHA_ONE_LAPTOP",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-09-10 17:29:32",
+        "notify": 7
+    },
+    "A8:8F:D9:51:31:25": {
+        "ip": "192.168.2.151",
+        "name": "Niyati_MacbookAir",
+        "host_name": "Niyatis-Air",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-04 20:32:37",
+        "notify": 7
+    },
+    "FC:9C:A7:E4:E4:08": {
+        "ip": "192.168.2.153",
+        "name": "Niyati_Iphone15",
+        "host_name": "Niyatis-iPhone",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-05 01:28:56",
+        "notify": 7
+    },
+    "A4:5C:27:6A:F5:55": {
+        "ip": "192.168.4.146",
+        "name": "Home4_WiiGameConsole",
+        "host_name": "Wii",
+        "reconnect_count_per_day": 10,
+        "last_connected": "2024-09-12 23:02:50",
+        "notify": 7
+    },
+    "48:BA:4E:94:70:14": {
+        "ip": "192.168.1.47",
+        "name": "AmishaPC",
+        "host_name": "AmishaPC",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-09-17 16:16:05",
+        "notify": 7
+    },
+    "86:76:2E:74:2E:7F": {
+        "ip": "192.168.2.26",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 00:27:08",
+        "notify": 7
+    },
+    "5E:DF:C2:96:E9:F5": {
+        "ip": "192.168.4.28",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 8,
+        "last_connected": "2024-09-22 19:41:38",
+        "notify": 7
+    },
+    "46:1A:60:3B:F9:08": {
+        "ip": "192.168.4.33",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 5,
+        "last_connected": "2024-09-22 20:33:50",
+        "notify": 7
+    },
+    "14:C1:4E:CF:9C:12": {
+        "ip": "192.168.2.104",
+        "name": "Manish_LG_OLED_TV",
+        "host_name": "Livingroom-TV",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-10-14 15:45:25",
+        "notify": 7
+    },
+    "6A:9E:2D:C8:C8:6B": {
+        "ip": "192.168.4.37",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-09-27 19:10:36",
+        "notify": 7
+    },
+    "32:8E:0E:EA:5D:4B": {
+        "ip": "192.168.4.17",
+        "name": "Kaushik-s-S23-Ultra",
+        "host_name": "Kaushik-s-S23-Ultra",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-10-13 18:08:39",
+        "notify": 7
+    },
+    "74:C1:7E:D6:56:59": {
+        "ip": "192.168.1.27",
+        "name": "LGwebOSTV",
+        "host_name": "LGwebOSTV",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-10-14 17:32:16",
+        "notify": 7
+    },
+    "14:C1:4E:8A:EC:4D": {
+        "ip": "192.168.4.29",
+        "name": "Mediaroom-TV",
+        "host_name": "Mediaroom-TV",
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-19 05:39:45",
+        "notify": 7
+    },
+    "E2:05:67:EE:7B:D5": {
+        "ip": "192.168.4.39",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-10 12:13:26",
+        "notify": 7
+    },
+    "F6:6E:CC:7D:89:F6": {
+        "ip": "192.168.4.25",
+        "name": null,
+        "host_name": null,
+        "reconnect_count_per_day": 1,
+        "last_connected": "2024-11-10 12:03:08",
+        "notify": 7
+    },
+    "24:E5:0F:D4:8D:4B": {
+        "ip": "192.168.4.15",
+        "name": "Nest-Audio",
+        "host_name": "Nest-Audio",
+        "reconnect_count_per_day": 2,
+        "last_connected": "2024-11-15 10:01:17",
+        "notify": 7
+    },
+    "EE:4E:B3:2C:3B:21": {
+        "ip": "192.168.4.18",
+        "name": "Manish-Pixel9Pro",
+        "host_name": "Manish-Pixel9Pro",
+        "reconnect_count_per_day": 3,
+        "last_connected": "2024-11-18 22:06:54",
+        "notify": 7
+    },
+    "E6:D2:85:D9:CD:74": {
+        "ip": "192.168.2.34",
+        "name": "Manish-Pixel9Pro",
+        "host_name": "Manish-Pixel9Pro",
+        "reconnect_count_per_day": 3,
+        "last_connected": "2024-11-18 22:22:18",
+        "notify": 7
+    },
+    "24:E5:0F:D3:AE:2D": {
+        "ip": "192.168.4.155",
+        "name": "Nest-Audio",
+        "host_name": "Nest-Audio",
+        "reconnect_count_per_day": 3,
+        "last_connected": "2024-11-19 14:26:54",
+        "notify": 7
+    }
+}
